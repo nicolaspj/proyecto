@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "dni": "11111111",
+        "apellido": "aaaaaa",
+        "puntos": "100"
+    },
+    {
+        "id": "2",
+        "dni": "22222222",
+        "apellido": "bbbbbb",
+        "puntos": "5000"
+    },
+    {
+        "id": "3",
+        "dni": "33333333",
+        "apellido": "cccccc",
+        "puntos": "150"
+    },
+    {
+        "id": "4",
+        "dni": "44444444",
+        "apellido": "dddddd",
+        "puntos": "3000"
+    },
+    {
+        "id": "5",
+        "dni": "11111122",
+        "apellido": "eeeee ee",
+        "puntos": "20"
+    }
+]
